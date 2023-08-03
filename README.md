@@ -19,13 +19,18 @@ Government Scheme Android App is an Android application that provides informatio
 5. **Push Notifications**: Users receive notifications about new schemes and updates.
 
 ## Screenshots
-![Screenshot 1](https://example.com/screenshot1.png)
-*Screenshot 1: Login Screen*
+<img src="screenshots/signup.png" alt="Screenshot" width="400" />
 
-![Screenshot 2](https://example.com/screenshot2.png)
-*Screenshot 2: Agriculture Sector with Scheme Details*
+<img src="screenshots/login.png" alt="Screenshot" width="400" />
 
-![Screenshot 3](https://example.com/screenshot3.png)
-*Screenshot 3: Banking Sector with Add Scheme Dialog*
+<img src="screenshots/mainscreen.png" alt="Screenshot" width="400" />
+
+<img src="screenshots/addnew.png" alt="Screenshot" width="400" />
+
+<img src="screenshots/agriculture.png" alt="Screenshot" width="400" />
+
+<img src="screenshots/banking.png" alt="Screenshot" width="400" />
+
+<img src="screenshots/notification.png" alt="Screenshot" width="400" />
 
 Enjoy exploring the Government Scheme Android App!
