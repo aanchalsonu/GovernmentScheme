@@ -1,0 +1,55 @@
+<DATASET>
+
+    <ROW ID="1">
+        <SCHEME>Sneha Sparsha</SCHEME>
+        <DESC>Launched on 30th December 2021, the "Sneha Sparsha" is a healthcare scheme by the Dept. of Health and Family Welfare, Govt. of Assam. In this scheme, financial assistance shall be provided for specialized treatment of children below 12 years of age affected with some serious ailments. Families with annual income less than ₹ 2,50,000 shall be eligible for availing benefits under the scheme, while priority shall be given to Below Poverty Line (BPL) families.</DESC>
+    </ROW>
+
+    <ROW ID="2">
+        <SCHEME>Nikshay Poshan Yojana (Nutritional Support To TB Patients)</SCHEME>
+        <DESC>An incentive scheme under National Health Mission (NHM) by Central TB Division of MoHFW for Tuberculosis (TB) patients who are under treatment and have registered / notified themselves on the NIKSHAY portal. All TB patients notified on or after 1st April 2018 including all existing TB patients under treatment are eligible to receive incentives. The patient must be registered\notified on the NIKSHAY portal. The scheme is registered under Direct Benefit Transfer. The incentives can be distributed in Cash (only via DBT preferably through Aadhaar enabled bank accounts) or in-kind.</DESC>
+    </ROW>
+
+    <ROW ID="3">
+        <SCHEME> Health Minister’s Discretionary Grant</SCHEME>
+        <DESC>A health scheme by Ministry of Health and Family Welfare for financially poor patients to defray a part of the expenditure on Hospitalization/treatment in Government Hospitals,for life threatening diseases covered under Rashtriya Arogya Nidhi (RAN), in cases where free medical facilities are not available. Only those having annual family income up to Rs.1.25,000/- and below are eligible for financial assistance from Health Minister’s Discretionary Grant (HMDG). Under this scheme, Financial assistance is provided towards treatment in Government hospitals including super specialty Government hospitals / institutes.</DESC>
+    </ROW>
+
+    <ROW ID="4">
+        <SCHEME> Pradhan Mantri Garib Kalyan Package : Insurance Scheme For Health Workers Fighting COVID-19</SCHEME>
+        <DESC>An Insurance scheme from Ministry of Health and Family Welfare for health workers who Lost their life due to COVID19 or accidental death on account of COVID-19 related duty.
+        </DESC>
+    </ROW>
+
+    <ROW ID="5">
+        <SCHEME>Khushi Scheme</SCHEME>
+        <DESC> Khushi (meaning "Happiness" in Odia) is a female health and hygiene program run by the Government of Odisha to provide free sanitary products to girl students in Odisha. </DESC>
+    </ROW>
+
+    <ROW ID="6">
+        <SCHEME>Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana</SCHEME>
+        <DESC>Ayushman Bharat, a flagship scheme of the Government of India, was launched as recommended by the National Health Policy 2017, to achieve the vision of Universal Health Coverage (UHC). This initiative has been designed to meet Sustainable Development Goals (SDGs) and its underlining commitment, which is to "leave no one behind." This scheme aims to undertake path-breaking interventions to holistically address the healthcare system (covering prevention, promotion, and ambulatory care) at the primary, secondary, and tertiary levels. </DESC>
+    </ROW>
+
+    <ROW ID="7">
+        <SCHEME>Employee Health Scheme</SCHEME>
+        <DESC> The Dr YSR Aarogyasri Health Care Trust, under the auspices of the Government of Andhra Pradesh, has implemented the Employee Health Scheme (EHS) with the primary objective of providing quality healthcare to all State Government Employees. The scheme covers government employees, pensioners and their dependent family members, who are eligible for cashless treatment at empanelled hospitals or Network Hospitals (NWH).</DESC>
+    </ROW>
+
+    <ROW ID="8">
+        <SCHEME>Chief Minister's Comprehensive Health Insurance Scheme</SCHEME>
+        <DESC>The Chief Minister Comprehensive Health Insurance Scheme, formerly known as Kalaingar Kaappittu Thittam, was launched on 23rd July 2009, with the objective of providing quality healthcare to eligible individuals through empanelled government and private hospitals, thereby reducing financial hardship for enrolled families and moving towards universal health coverage by effectively linking with the public health system.
+        </DESC>
+    </ROW>
+
+    <ROW ID="9">
+        <SCHEME>Biju Swasthya Kalyan Yojana - Cashless Health Care In State Government Hospitals</SCHEME>
+        <DESC>Biju Swasthya Kalyan Yojana (BSKY) was launched by the Hon'ble Chief Minister of Odisha on 15th August 2018, as a path-breaking program to provide universal health coverage, with special emphasis on the health protection of vulnerable families and women. The objective of this scheme is to protect economically vulnerable families from falling into this poverty trap by catastrophic health expenditure.</DESC>
+    </ROW>
+
+    <ROW ID="10">
+        <SCHEME>Dr. YSR Aarogyasri Health Insurance Scheme</SCHEME>
+        <DESC> The "Dr. YSR Aarogyasri Health Insurance Scheme" was launched in 2007 by the Govt. of Andhra Pradesh to provide financial aid to low-income families in Andhra Pradesh. The scheme is a unique PPP model in the field of Health Insurance, tailor made to the health needs of poor patients and provides end-to-end cashless services for identified diseases under secondary and tertiary care through a network of service providers from Government and private sector. </DESC>
+    </ROW>
+
+</DATASET>

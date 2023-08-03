@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "927178242987",
+    "firebase_url": "https://gscheme-94303-default-rtdb.firebaseio.com",
+    "project_id": "gscheme-94303",
+    "storage_bucket": "gscheme-94303.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927178242987:android:b6610cf5e5191af48530ee",
+        "android_client_info": {
+          "package_name": "com.example.governmentscheme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927178242987-hqcb33dmkv53u1ct04781lt26r1cskcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8kg-Ypp49VvyZuxs0Oijfj0F9bvIBYes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927178242987-hqcb33dmkv53u1ct04781lt26r1cskcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

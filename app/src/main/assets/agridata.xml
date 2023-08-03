@@ -1,0 +1,42 @@
+<DATASET>
+    <ROW ID="1">
+        <SCHEME>Pradhan Mantri Fasal Bima Yojana (PMFBY)</SCHEME>
+        <DESC>Insurance protection for food crops, oilseeds and annual horticultural/commercial crops notified by state government. </DESC>
+    </ROW>
+    <ROW ID="2">
+        <SCHEME>Weather Based Crop Insurance Scheme (WBCIS)</SCHEME>
+        <DESC>Insurance protection for notified food crops, oilseeds and annual horticultural/commercial crops. </DESC>
+    </ROW>
+    <ROW ID="3">
+        <SCHEME> Coconut Palm Insurance Scheme (CPIS)</SCHEME>
+        <DESC>Insurance protection for Coconut Palm growers. </DESC>
+    </ROW>
+    <ROW ID="4">
+        <SCHEME> Unified Package Insurance Scheme (UPIS) as pilot in notified districts.</SCHEME>
+        <DESC>To provide financial protection and comprehensive risk coverage of crops, assets, life, and student safety to farmers </DESC>
+    </ROW>
+    <ROW ID="5">
+        <SCHEME>Soil Health Card scheme</SCHEME>
+        <DESC> Distribution of Micronutrients and soil ameliorants. </DESC>
+    </ROW>
+    <ROW ID="6">
+        <SCHEME>Rashtriya Krishi Vikas Yojana</SCHEME>
+        <DESC> Scheme aims at making farming a remunerative economic activity by strengthening the farmers‟ efforts, risk mitigation and promoting agri-business entrepreneurship. </DESC>
+    </ROW>
+    <ROW ID="7">
+        <SCHEME>Pradhan Mantri Kisan Maan Dhan Yojana</SCHEME>
+        <DESC> A contributory pension scheme by the Ministry of Agriculture and Farmers Welfare for Individual Farmers. Provides an assured monthly pension of Rs. 3000/- to all the Small and Marginal farmers after the age of 60 years.  </DESC>
+    </ROW>
+    <ROW ID="8">
+        <SCHEME>Saansad Adarsh Gram Yojana</SCHEME>
+        <DESC>To trigger processes that lead to the holistic development of the identified Gram Panchayats</DESC>
+    </ROW>
+    <ROW ID="9">
+        <SCHEME>Galvanizing Organic Bio-Agro Resources Dhan (GOBARdhan)</SCHEME>
+        <DESC> Galvanizing Organic Bio-Agro Resources Dhan (GOBARdhan) was launched by the Ministry of Drinking Water and Sanitation in April 2018 as a part of the Solid and Liquid Waste Management component under the Swachh Bharat Mission (Grameen) to positively impact village cleanliness and generate wealth and energy from cattle and organic waste.</DESC>
+    </ROW>
+    <ROW ID="10">
+        <SCHEME>YSR Rythu Bharosa</SCHEME>
+        <DESC> To support the cultivators in meeting the investment during the crop season with a view to enabling them to timely sourcing of quality inputs and services for higher crop productivity.  </DESC>
+    </ROW>
+</DATASET>

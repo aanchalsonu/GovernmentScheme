@@ -1,0 +1,53 @@
+<DATASET>
+
+    <ROW ID="1">
+        <SCHEME>Pre Matric Scholarship For Minorities</SCHEME>
+        <DESC>A scholarship scheme by Ministry of Minority Affairs for students from minority communities studying in Class 1st to Class 10th in India in a government or private school, including such residential Government institutes and eligible private institutes selected and notified in a transparent manner by the State Government and Union Territory Administration concerned. A total of thirty (30) lakh scholarships are targeted to be distributed as ‘Fresh’ Scholarships, besides, Renewal scholarships.</DESC>
+    </ROW>
+
+    <ROW ID="2">
+        <SCHEME>Merit·cum·Means Scholarships For Under Graduate Studies In Various Branches Of Agriculture And Animal Science Subjects</SCHEME>
+        <DESC>The scheme of "Merit·cum·Means Scholarships For Under Graduate Studies In Various Branches Of Agriculture And Animal Science Subjects" is a scholarship scheme introduced by the Indian Council of Agricultural Research (ICAR), Department of Agricultural Research and Education (DARE), with a view to attracting meritorious under-graduate students to prosecute their study in Agriculture, Agricultural Engineering, Home Science, Dairy and Animal Husbandry subjects up to graduation level. The scholarships are awarded annually on the basis of merit-cum-means. </DESC>
+    </ROW>
+
+    <ROW ID="3">
+        <SCHEME> CBSE Merit Scholarship Scheme For Single Girl Child</SCHEME>
+        <DESC>A scholarship scheme by the Ministry of Education for meritorious Single Girl Students, who are the only child of their parents; and have passed the CBSE Class 10th Examination with 60% or more marks and are continuing their further school education of Class 11th and 12th.</DESC>
+    </ROW>
+
+    <ROW ID="4">
+        <SCHEME> Support To Students For Participating In Competition Abroad</SCHEME>
+        <DESC>A Travel Grant Scheme by the All India Council for Technical Education (AICTE), Ministry of Education (MoE), for enhancing the quality of engineering education in the country and inculcates the research, innovation, and competition culture amongst the students. The scheme will provide assistance of ₹1,00,000 as a package inclusive of all related expenses, to the eligible students as per the scheme without putting any barrier on the head of expenditure. </DESC>
+    </ROW>
+
+    <ROW ID="5">
+        <SCHEME>AICTE – Saksham Scholarship Scheme For Specially-Abled Student (Diploma)</SCHEME>
+        <DESC> Saksham is a Scholarship Scheme by the Ministry of Education, implemented by AICTE, aimed at providing encouragement and support to specially-abled children to pursue technical education. This is an attempt to give every young student, who is otherwise specially abled, the opportunity to study further and prepare for a successful future through technical education/ knowledge. ₹50,000/- per annum for every year of study i.e. maximum 3 years for the first year admitted students and maximum 2 years for the second year admitted students through lateral entry as lump sum amount towards payment of college fee, purchase of computer, stationeries, books, equipment, software, etc.</DESC>
+    </ROW>
+
+    <ROW ID="6">
+        <SCHEME>Post Graduate Merit Scholarship Scheme For University Rank Holders At Under-Graduate Level Applicable</SCHEME>
+        <DESC>University Grants Commission (UGC), Department of Higher Education (DoHE) introduced a Post-Graduate Merit Scholarship Scheme for University rank holders both in General and Honours Courses at the Undergraduate level. The scholarship may be tenable for a period of two years to enable the rank holders of each university at the undergraduate level to pursue their Master’s Degree.  </DESC>
+    </ROW>
+
+    <ROW ID="7">
+        <SCHEME>Madhyamik Drop-out Coaching</SCHEME>
+        <DESC> The scheme of "Madhyamik Drop-out Coaching" was introduced by the Tribal Welfare Department, Directorate of Tribal Welfare, Govt. of Tripura. The scheme has the objective of providing coaching to the un-successful Madhyamik ST students who could not succeed due to various reasons of inconveniences. Special coaching is being provided to the Madhyamik failed ST students for a period of 7 (seven) months through NGO run Coaching centres.. Stipend @ Rs. 65/- per student per day is provided to the hostellers.</DESC>
+    </ROW>
+
+    <ROW ID="8">
+        <SCHEME>Internship Programme By The Ministry Of External Affairs</SCHEME>
+        <DESC>The Ministry of External Affairs of the Govt. of India launched the first edition of its Internship Programme in 2022. The internship policy aims to take foreign policy closer to the people; bring in more focus on MEA; provide value to the interns; ensure better gender inclusivity and increase diversity in terms of qualifications, domicile, and socio-economic status in the cohort of interns engaged by the MEA. During the course of the internship, the Interns would be introduced to various aspects of the functioning of the Ministry, its attached offices, the public interface of the Ministry and its role in helping Indian citizens, as well as a possible visit one of the Missions abroad, subject to prevailing conditions. </DESC>
+    </ROW>
+
+    <ROW ID="9">
+        <SCHEME>Revised Education Scheme For Children Of Artisans/Weavers Of Handicrafts And Handloom Departments</SCHEME>
+        <DESC> A scholarship scheme by the Industries and Commerce Dept., Govt. of Jammu and Kashmir to provide financial support to the children of Artisans/Weavers of Handicrafts and Handloom Depts. in completion of education. The scholarship shall be provided to a maximum of two children of Weaver/Artisan. The payment shall be made on Direct Benefit Transfer (DBT) to the student. ₹1500 per year up to primary education; ₹ 2000 per year for Classes 6th to 10th; ₹ 3000 per year for Classes 11th and 12th; As per actual course fee fixed by the Government for Technical/Professional Courses.</DESC>
+    </ROW>
+
+    <ROW ID="10">
+        <SCHEME>Free Education For Sports Medal Winners / Participants Of National/ International Events</SCHEME>
+        <DESC> The objective of the scheme is to provide financial assistance to the medal winners\ elite sports persons who are studying in Universities/Colleges leading to all the full-time regular courses including PG Diploma and other professional courses. </DESC>
+    </ROW>
+
+</DATASET>
